@@ -1,0 +1,10 @@
+C:\Users\P4215441\source\repos\Countdown_Number_Solver\Countdown_Number_Solver\bin\Debug\Countdown_Number_Solver.exe.config
+C:\Users\P4215441\source\repos\Countdown_Number_Solver\Countdown_Number_Solver\bin\Debug\Countdown_Number_Solver.exe
+C:\Users\P4215441\source\repos\Countdown_Number_Solver\Countdown_Number_Solver\bin\Debug\Countdown_Number_Solver.pdb
+C:\Users\P4215441\source\repos\Countdown_Number_Solver\Countdown_Number_Solver\obj\Debug\Countdown_Number_Solver.csprojAssemblyReference.cache
+C:\Users\P4215441\source\repos\Countdown_Number_Solver\Countdown_Number_Solver\obj\Debug\Countdown_Number_Solver.Form1.resources
+C:\Users\P4215441\source\repos\Countdown_Number_Solver\Countdown_Number_Solver\obj\Debug\Countdown_Number_Solver.Properties.Resources.resources
+C:\Users\P4215441\source\repos\Countdown_Number_Solver\Countdown_Number_Solver\obj\Debug\Countdown_Number_Solver.csproj.GenerateResource.cache
+C:\Users\P4215441\source\repos\Countdown_Number_Solver\Countdown_Number_Solver\obj\Debug\Countdown_Number_Solver.csproj.CoreCompileInputs.cache
+C:\Users\P4215441\source\repos\Countdown_Number_Solver\Countdown_Number_Solver\obj\Debug\Countdown_Number_Solver.exe
+C:\Users\P4215441\source\repos\Countdown_Number_Solver\Countdown_Number_Solver\obj\Debug\Countdown_Number_Solver.pdb
