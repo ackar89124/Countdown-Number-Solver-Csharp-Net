@@ -76,10 +76,6 @@ namespace Countdown_Number_Solver
                     target = n;
                 }
             }
-            else
-            {
-                //MessageBox.Show("Hey, we need an int over here.");
-            }
         }
 
         private void button8_Click(object sender, EventArgs e)
@@ -210,8 +206,6 @@ namespace Countdown_Number_Solver
         {
             if (timeLeft > 0)
             {
-                // Display the new time left
-                // by updating the Time Left label.
                 timeLeft = timeLeft - 1;
                 label9.Text = timeLeft.ToString();
             }
@@ -249,7 +243,6 @@ namespace Countdown_Number_Solver
 
         public void Solve(int tar, List<int> num)
         {
-            //Console.WriteLine(num.Count);
             int closest = 0;
             List<string> results = new List<string> { "test", "test2", "test3" };
             List<int> winning = new List<int>();
